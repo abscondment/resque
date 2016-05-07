@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "redis-namespace", "~> 1.3"
   s.add_dependency "vegas", "~> 0.1.2"
-  s.add_dependency "sinatra", "~> 1.4"
+  s.add_dependency "sinatra", "~> 2.0"
   s.add_dependency "multi_json", "~> 1.0"
   s.add_dependency "mono_logger", "~> 1.0"
 
